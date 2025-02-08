@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/animals/</loc>
+    <lastmod>2024-02-18T14:12:44+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/fashion-beauty/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2024-02-18T14:12:44+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/animals/hehe2/</loc>
+    <lastmod>2024-02-18T14:12:44+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/animals/hehe/</loc>
+    <lastmod>2024-02-18T14:12:44+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/animals/cats/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/fashion-beauty/xixi/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/fashion-beauty/xixi2/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/imprint/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url><url>
+    <loc>https://example.org/wode/</loc>
+  </url>
+</urlset>

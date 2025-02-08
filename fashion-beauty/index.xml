@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🈲Travel on 和和图片库...❤️...🐟</title>
+    <link>https://example.org/fashion-beauty/</link>
+    <description>Recent content in 🈲Travel on 和和图片库...❤️...🐟</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fashion-beauty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>旅行</title>
+      <link>https://example.org/fashion-beauty/xixi/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fashion-beauty/xixi/</guid><media:content url="https://example.org/fashion-beauty/xixi/2021_01_30_16_42_IMG_0175_hubd14ea2b3d5aa567d8b77c6e60e5c2d6_3064469_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/fashion-beauty/xixi/2021_01_30_16_42_IMG_0175_hubd14ea2b3d5aa567d8b77c6e60e5c2d6_3064469_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>神州半岛</title>
+      <link>https://example.org/fashion-beauty/xixi2/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fashion-beauty/xixi2/</guid><media:content url="https://example.org/fashion-beauty/xixi2/2021_01_26_10_00_IMG_0073_hua1ab37f9747dabd20149219e6145cb74_4496339_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/fashion-beauty/xixi2/2021_01_26_10_00_IMG_0073_hua1ab37f9747dabd20149219e6145cb74_4496339_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

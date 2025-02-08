@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🈳Snapshots on 和和图片库...❤️...🐟</title>
+    <link>https://example.org/animals/</link>
+    <description>Recent content in 🈳Snapshots on 和和图片库...❤️...🐟</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2024 14:12:44 +0100</lastBuildDate><atom:link href="https://example.org/animals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>乱七八糟</title>
+      <link>https://example.org/animals/hehe2/</link>
+      <pubDate>Sun, 18 Feb 2024 14:12:44 +0100</pubDate>
+      <guid>https://example.org/animals/hehe2/</guid><media:content url="https://example.org/animals/hehe2/2021_05_19_11_13_IMG_0905_hu4e3f5b8deb4e26199697b613b50f1ce8_3071176_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/animals/hehe2/2021_05_19_11_13_IMG_0905_hu4e3f5b8deb4e26199697b613b50f1ce8_3071176_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>杂乱无章</title>
+      <link>https://example.org/animals/hehe/</link>
+      <pubDate>Sun, 18 Feb 2024 14:12:44 +0100</pubDate>
+      <guid>https://example.org/animals/hehe/</guid><media:content url="https://example.org/animals/hehe/2023_01_09_00_40_IMG_7706_hu63956ec054a4f5c9429d7a6161ccc7a6_2279923_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/animals/hehe/2023_01_09_00_40_IMG_7706_hu63956ec054a4f5c9429d7a6161ccc7a6_2279923_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>随怕</title>
+      <link>https://example.org/animals/cats/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/animals/cats/</guid><media:content url="https://example.org/animals/cats/11_hu902753ca1f377d98e8892ebcc3e313af_273977_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/animals/cats/11_hu902753ca1f377d98e8892ebcc3e313af_273977_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
